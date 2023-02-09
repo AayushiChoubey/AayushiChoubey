@@ -1,4 +1,4 @@
-## Hey there! 👋 This is <b>Aayushi Choubey; </b>
+## Hey there! I am <b>Aayushi Choubey; </b>
 ### Software Developer
 <span align="right"> <img src="https://komarev.com/ghpvc/?username=AayushiChoubey&label=Profile%20views&color=0e75b6&style=flat" alt="aayushi-choubey" /></span> 
 
