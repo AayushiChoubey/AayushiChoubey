@@ -4,11 +4,11 @@
 
 <p align="center">
   <samp>
-    B.Tech Electrical Engineering @  <b>IIT Indore</b><br>
+    B.Tech Electrical Engineering <b>IIT Indore</b><br>
   </samp>
 </p>
 
-### 🌱 <b> Web Development, Competitive Programming and Robotics. </b>
+###  <b> Web Development, Competitive Programming and Robotics. </b>
 
 <details open="true">
 <summary><span><b>Connect with me</b></span></summary>
