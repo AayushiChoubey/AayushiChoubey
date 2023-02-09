@@ -13,7 +13,7 @@
 <details open="true">
 <summary><span><b>Connect with me</b></span></summary>
 <p align="center">
-<code><a href="https://www.linkedin.com/in/aayushi-choubey-a52b59261/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="skj" height="50" width="50" /></a></code>
+<code><a href="https://www.linkedin.com/in/aayushi-choubey-b6a9781bb/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="skj" height="50" width="50" /></a></code>
 <code><a href="mailto:aayushichoubey23@gmail.com" target="blank"><img align="center" src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG8.png" alt="skj" height="40" width="40" /></a></code>
 <code><a href="https://instagram.com/aayushichoubey23" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" alt="skj" height="40" width="40" /></a></code>
 </p>
